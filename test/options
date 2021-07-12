@@ -1,0 +1,5 @@
+export host=http://localhost:3000
+export resource=/
+export method=GET
+
+
