@@ -1,2 +1,2 @@
-# Auth Modulo
-Este programa sirve para gestionar los accesos a la apliacion web. Autoriza y autentifica a los usuarios de la apliacion.
+# Auth Modulo.
+Este modulo sirve para gestionar los accesos de las aplicaciones cliente a través de la generacion de un token de acceso. El token autoriza y autentifica a los usuarios de la aplicación.
